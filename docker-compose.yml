@@ -20,3 +20,7 @@ services:
     restart: always
     networks:
       - backend
+
+networks:
+  backend:
+    driver: bridge
