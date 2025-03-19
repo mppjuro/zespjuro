@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  demo:
+    build: ./demo
+    container_name: demo_service
+    ports:
+      - "9090:9090"
+    restart: always
+    networks:
+      - backend
+
+  binaryzacja:
+    build: ./binaryzacja
+    container_name: binaryzacja_service
+    ports:
+      - "9998:9998"
+    restart: always
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
