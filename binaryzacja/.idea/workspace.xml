@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f685ed5-6bae-41c7-9640-5ce633e0c259" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ImageProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/ImageProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/I.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/I.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/II.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/II.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/III.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/III.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/V6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/V6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/aVF.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/aVF.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/aVL.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/aVL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ekg/aVR.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ekg/aVR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Normalizacja.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tGssgJTTaHalhbt2iCjZhiIdEB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Binaryzacja [-N,io.takari:maven:wrapper].executor": "Run",
+    "Maven.Binaryzacja [clean,install].executor": "Run",
+    "Maven.Binaryzacja [dependency:tree,|,grep...].executor": "Run",
+    "Maven.Binaryzacja [dependency:tree].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.BinaryzacjaApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PJURO/Desktop/zespolowka/binaryzacja",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:tree | grep opencv" />
+      <command value="mvn dependency:tree" />
+      <command value="rmdir /s /q C:\Users\PJURO\.m2\repository\org\bytedeco\opencv" />
+      <command value="mvn clean install" />
+      <command value="mvnw build" />
+      <command value="./mvnw package" />
+      <command value="mvn -N io.takari:maven:wrapper" />
+      <command value="mvnw.cmd clean install" />
+      <command value="./mvnw.cmd clean install" />
+      <command value="mvnw.cmd" />
+      <command value="./mvnw.cmd" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BinaryzacjaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="-Xss4m" />
+      <module name="Binaryzacja" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.BinaryzacjaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.109" />
+        <option value="bundled-js-predefined-d6986cc7102b-d159365566ee-JavaScript-IU-251.23774.109" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f685ed5-6bae-41c7-9640-5ce633e0c259" name="Changes" comment="" />
+      <created>1739989954395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739989954395</updated>
+      <workItem from="1739989955620" duration="14508000" />
+      <workItem from="1740049874404" duration="3525000" />
+      <workItem from="1740053441839" duration="5086000" />
+      <workItem from="1740077616813" duration="2796000" />
+      <workItem from="1740084842716" duration="2979000" />
+      <workItem from="1741108048120" duration="5757000" />
+      <workItem from="1741172059746" duration="803000" />
+      <workItem from="1741536302957" duration="16219000" />
+      <workItem from="1741599751130" duration="3521000" />
+      <workItem from="1741603327326" duration="495000" />
+      <workItem from="1741816358232" duration="27000" />
+      <workItem from="1742153457552" duration="1760000" />
+      <workItem from="1742155795530" duration="2320000" />
+      <workItem from="1742325202797" duration="1189000" />
+      <workItem from="1742341188385" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

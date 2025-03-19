@@ -1,0 +1,8 @@
+org\example\BinaryWebSocketHandlerMP.class
+org\example\BinaryzacjaApplication.class
+org\example\ImageProcessor$WhiteBlock.class
+org\example\Normalizacja.class
+org\example\ImageProcessor.class
+org\example\ImageProcessor$CompressedBitmap.class
+org\example\WebSocketConfig.class
+org\example\BinaryWebSocketHandlerMP$SessionState.class

@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\ImageController.class
+com\example\demo\ImageConvertingService.class
+com\example\demo\swagger\SwaggerConfig.class
+com\example\demo\websocket\PhotoService.class
+com\example\demo\websocket\PhotoForwardingWebSocketClient.class
+com\example\demo\ImageConversionServiceTest.class
+com\example\demo\websocket\PhotoWebSocketHandler.class
+com\example\demo\websocket\WebSocketConfig.class
+com\example\demo\websocket\WebSocketConfig$1.class
